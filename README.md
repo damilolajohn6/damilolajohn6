@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm **Damilola Esan**
 
-**Full-Stack Software Developer** specializing in building modern, scalable web applications with **Next.js**, **TypeScript**, and **Express**.
+**Full-Stack Software Developer** specializing in building modern, scalable web applications with **Python**, **Next.js**, **TypeScript**, and **Express**.
 
 ---
 
