@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @damilolajohn6 (Esan Damilola John) 
-- 👀 I’m interested in Fullstack software development
-- 🌱 I’m currently learning Fullstack development at qwassar silicon valley, and ALX Software engineering school.
-- 💞️ I’m looking to collaborate on C projects, python projects, javascript, ruby, ruby on rails, and Java
-- 📫 How to reach me? You can reach me on my email on damilolajohn622@gmail.com
+## 👋 Hi, I'm **Damilola Esan**
 
-<!---
-damilolajohn6/damilolajohn6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Full-Stack Software Developer** specializing in building modern, scalable web applications with **Next.js**, **TypeScript**, and **Express**.
+
+---
+
+### ⚙️ Tech Stack
+- **Frontend:** Next.js · React · TypeScript · Tailwind CSS · Material UI   · Shadcn UI · React Native
+- **Backend:** Node.js · Express · TypeScript · MongoDB · Prisma  · Django · Flask  · MySQL · 
+
+
+---
+
+### 🚀 Projects
+- **E-Commerce Admin Panel** – Full admin dashboard with product, order, and user management.  
+- **Real Estate Platform** – Agent dashboard, property filtering, and Cloudinary integration.  
+- **Private Jet Rental App** – Next.js + Prisma platform with booking, cost calculation, and admin controls.  
+- **Online Learning Platform** – OTP verification, instructor management, and role-based access.  
+
+---
+
+### 📫 Connect with Me
+- [GitHub](https://github.com/Damilolajohn6)  
+- [Email](mailto:damilolajohn622@gmail.com)
+
+---
+
+### 💡 Currently
+Refining backend architecture in **Express + TypeScript** and integrating **Next.js server components** with **Prisma**.
